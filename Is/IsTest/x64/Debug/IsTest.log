@@ -1,0 +1,5 @@
+﻿  IsTest.cpp
+C:\projects\Starlight3D\Is\Is\ZTokenStream.h(79,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\projects\Starlight3D\Is\Is\IVM.h(6,1): warning C4005: 'MAX_MEM': macro redefinition
+C:\projects\Starlight3D\Is\Is\ZenByteCode.h(5): message : see previous definition of 'MAX_MEM'
+  IsTest.vcxproj -> C:\projects\Starlight3D\StarlightStudio\x64\Debug\IsTest.exe
